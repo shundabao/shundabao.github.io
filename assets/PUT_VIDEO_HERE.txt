@@ -1,0 +1,16 @@
+PLACE YOUR SHOOTING VIDEO HERE
+
+Required filename:
+
+prs-shooting.mp4
+
+Recommended:
+- MP4 / H.264
+- 5–8 seconds
+- 16:9
+- 720p
+- muted audio or no audio
+- ideally under 5–10 MB
+
+Final path:
+assets/prs-shooting.mp4
